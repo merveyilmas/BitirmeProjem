@@ -20,73 +20,71 @@ Uygulamamız ilk açıldığında kullanıcı giriş sayfası açılmaktadır. E
 
 *Giriş Ekranı*
 
-
-![Giriş](https://imgyukle.com/f/2022/03/09/EiMQrM.png)
-<img height="70" src="https://imgyukle.com/f/2022/03/09/EiMQrM.png" />
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiMQrM.png" />
 
 -------------------------------------------
 
 *Kayıt Ol Ekranı*
 
-![Kayıt](https://imgyukle.com/i/EilZRb)
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiMdsI.png" />
 
 -------------------------------------------
 
 *Hoşgeldiniz Ekranı*
 
-![Hoşgeldiniz](https://imgyukle.com/i/EilwvR)
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZVds.png" />
 
 -----------------------------------------
 
 *Anasayfa Ekranı*
 
-![Anasayfa](https://imgyukle.com/i/EildsP)
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZCSR.png" />
 
 ------------------------------------------
 
 *Bitki Bilgi Sayfası*
 
-![BitkiBilgi](https://imgyukle.com/i/EilfTc)
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZSse.png" />
 
 --------------------------------------------
 
 *Blog Sayfası*
 
-![Blog](https://imgyukle.com/i/Eil06e)
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZN96.png" />
 
 --------------------------------------------
 
 *Kamera Okutma Sayfası*
 
-![KameraOkutma](https://imgyukle.com/i/EilbOs)
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZjSp.png" />
 
 --------------------------------------------
 
 *Bahçem Sayfası*
 
-![Bahçem](https://imgyukle.com/i/Eil6At)
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZcFM.png" />
 
 --------------------------------------------
 
 *Profilim Sayfası*
 
-![Profilim](https://imgyukle.com/i/EilACN)
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZhnh.png" />
 
 --------------------------------------------
 *Fotoğraf Yükleme Sayfası*
 
-![Fotoğraf](https://imgyukle.com/i/Eittfp)
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZDao.png" />
 
 --------------------------------------------
 
 *Ayarlar Sayfası*
 
-![Ayarlar](https://imgyukle.com/i/Eitlz6)
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZGzU.png" />
 
 --------------------------------------------
 *Kullanıcı Profili Seçme Sayfası*
 
-![KullanıcıProfiliSeçme](https://imgyukle.com/i/EitMuy)
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZ1B1.png" />
 
 --------------------------------------------
 Bu uygulamayı ben dahil 3 kişi (Dilber Aslan, Burcu Bıyık), Avrasya Üniversitesi Bilgisayar Mühendisliği Bölümü'nde bitirme projesi olarak yaptık.
