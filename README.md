@@ -22,7 +22,7 @@ Uygulamamız ilk açıldığında kullanıcı giriş sayfası açılmaktadır. E
 
 
 ![Giriş](https://imgyukle.com/f/2022/03/09/EiMQrM.png)
-<img heighth="70" src="https://imgyukle.com/f/2022/03/09/EiMQrM.png" />
+<img height="70" src="https://imgyukle.com/f/2022/03/09/EiMQrM.png" />
 
 -------------------------------------------
 
