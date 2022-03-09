@@ -21,71 +21,71 @@ Uygulamamız ilk açıldığında kullanıcı giriş sayfası açılmaktadır. E
 *Giriş Ekranı*
 
 
-![giriş](https://imgyukle.com/i/EilFtS)
+![Giriş](https://imgyukle.com/i/EilFtS)
 
 -------------------------------------------
 
 *Kayıt Ol Ekranı*
 
-![kayıt](https://imgyukle.com/i/EilZRb)
+![Kayıt](https://imgyukle.com/i/EilZRb)
 
 -------------------------------------------
 
 *Hoşgeldiniz Ekranı*
 
-![sdfg](https://imgyukle.com/i/EilwvR)
+![Hoşgeldiniz](https://imgyukle.com/i/EilwvR)
 
 -----------------------------------------
 
 *Anasayfa Ekranı*
 
-![sdfg](https://imgyukle.com/i/EildsP)
+![Anasayfa](https://imgyukle.com/i/EildsP)
 
 ------------------------------------------
 
 *Bitki Bilgi Sayfası*
 
-![sdfg](https://imgyukle.com/i/EilfTc)
+![BitkiBilgi](https://imgyukle.com/i/EilfTc)
 
 --------------------------------------------
 
 *Blog Sayfası*
 
-![sdfg](https://imgyukle.com/i/Eil06e)
+![Blog](https://imgyukle.com/i/Eil06e)
 
 --------------------------------------------
 
 *Kamera Okutma Sayfası*
 
-![sdfg](https://imgyukle.com/i/EilbOs)
+![KameraOkutma](https://imgyukle.com/i/EilbOs)
 
 --------------------------------------------
 
 *Bahçem Sayfası*
 
-![sdfg](https://imgyukle.com/i/Eil6At)
+![Bahçem](https://imgyukle.com/i/Eil6At)
 
 --------------------------------------------
 
 *Profilim Sayfası*
 
-![sdfg](https://imgyukle.com/i/EilACN)
+![Profilim](https://imgyukle.com/i/EilACN)
 
 --------------------------------------------
 *Fotoğraf Yükleme Sayfası*
 
-![sdfg](https://imgyukle.com/i/Eittfp)
+![Fotoğraf](https://imgyukle.com/i/Eittfp)
 
 --------------------------------------------
 
 *Ayarlar Sayfası*
 
-![sdfg](https://imgyukle.com/i/Eitlz6)
+![Ayarlar](https://imgyukle.com/i/Eitlz6)
 
 --------------------------------------------
 *Kullanıcı Profili Seçme Sayfası*
 
-![sdfg](https://imgyukle.com/i/EitMuy)
+![KullanıcıProfiliSeçme](https://imgyukle.com/i/EitMuy)
 
 --------------------------------------------
 Bu uygulamayı ben dahil 3 kişi (Dilber Aslan, Burcu Bıyık), Avrasya Üniversitesi Bilgisayar Mühendisliği Bölümü'nde bitirme projesi olarak yaptık.
