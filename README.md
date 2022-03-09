@@ -21,7 +21,7 @@ Uygulamamız ilk açıldığında kullanıcı giriş sayfası açılmaktadır. E
 *Giriş Ekranı*
 
 
-![Giriş](https://imgyukle.com/i/EilFtS)
+![Giriş](https://imgyukle.com/f/2022/03/09/EiMQrM.png)
 
 -------------------------------------------
 
