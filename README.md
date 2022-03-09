@@ -18,73 +18,23 @@ Uygulamamız ilk açıldığında kullanıcı giriş sayfası açılmaktadır. E
 
 ## Uygulamadan Ekran Görüntüleri
 
-*Giriş Ekranı*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiMQrM.png" />
-
--------------------------------------------
-
-*Kayıt Ol Ekranı*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiMdsI.png" />
-
--------------------------------------------
-
-*Hoşgeldiniz Ekranı*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZVds.png" />
+<Br>Giriş Ekranı&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kayıt Ol Ekranı&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hoşgeldiniz Ekranı</Br>                                          
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiMQrM.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiMdsI.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiZVds.png" />
 
 -----------------------------------------
 
-*Anasayfa Ekranı*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZCSR.png" />
-
-------------------------------------------
-
-*Bitki Bilgi Sayfası*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZSse.png" />
+<Br>Anasayfa Ekranı&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bitki Bilgi Sayfası&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blog Sayfası</Br>                                          
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZCSR.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiZSse.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiZN96.png" />
 
 --------------------------------------------
 
-*Blog Sayfası*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZN96.png" />
-
---------------------------------------------
-
-*Kamera Okutma Sayfası*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZjSp.png" />
+<Br>Kamera Okutma Sayfası&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bahçem Sayfası&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Profilim Sayfası</Br>                                          
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZjSp.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiZcFM.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiZhnh.png" />
 
 --------------------------------------------
 
-*Bahçem Sayfası*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZcFM.png" />
-
---------------------------------------------
-
-*Profilim Sayfası*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZhnh.png" />
-
---------------------------------------------
-*Fotoğraf Yükleme Sayfası*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZDao.png" />
-
---------------------------------------------
-
-*Ayarlar Sayfası*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZGzU.png" />
-
---------------------------------------------
-*Kullanıcı Profili Seçme Sayfası*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZ1B1.png" />
+<Br>Fotoğraf Yükleme Sayfası&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ayarlar Sayfası&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kullanıcı Profili Seçme Sayfası</Br>                                          
+<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZDao.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiZGzU.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiZ1B1.png" />
 
 --------------------------------------------
 Bu uygulamayı ben dahil 3 kişi (Dilber Aslan, Burcu Bıyık), Avrasya Üniversitesi Bilgisayar Mühendisliği Bölümü'nde bitirme projesi olarak yaptık.
