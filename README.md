@@ -18,25 +18,7 @@ Uygulamamız ilk açıldığında kullanıcı giriş sayfası açılmaktadır. E
 
 ## Uygulamadan Ekran Görüntüleri
 Aşağıdaki linkten uygulamanın ekran görüntülerine ulaşabilirsiniz.<br>
-https://drive.google.com/drive/folders/1YPyWp7RrjxleyrKZ1i2p3XyMdpW_5zvm?usp=sharing
-
-<Br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giriş Ekranı&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kayıt Ol Ekranı&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hoşgeldiniz Ekranı</Br>                                          
-<img height="400" src="https://drive.google.com/file/d/1eC_CEZo0vQiLuGnY8Eaov5TSFtVIkbRI/view?usp=sharing" /> <img height="400" src="https://drive.google.com/file/d/1cvkc5LvsDi8U943ONs3DPdjF3Dlr9OUg/view?usp=sharing" /> <img height="400" src="https://drive.google.com/file/d/132hvXKMWvrgzt-Pikcl_XgJqTw_ituVx/view?usp=sharing" />
-
------------------------------------------
-
-<Br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anasayfa Ekranı&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bitki Bilgi Sayfası&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blog Sayfası</Br>                                          
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZCSR.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiZSse.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiZN96.png" />
-
---------------------------------------------
-
-<Br>&nbsp;&nbsp;Kamera Okutma Sayfası&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bahçem Sayfası&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Profilim Sayfası</Br>                                          
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZjSp.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiZcFM.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiZhnh.png" />
-
---------------------------------------------
-
-<Br>&nbsp;Fotoğraf Yükleme Sayfası&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ayarlar Sayfası&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kullanıcı Profili Seçme Sayfası</Br>                                          
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiZDao.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiZGzU.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiZ1B1.png" />
+https://drive.google.com/drive/folders/1rVX6NNhVai_LQb20FLVRO9yQlI7AsB94?usp=sharing
 
 --------------------------------------------
 Bu uygulamayı ben dahil 3 kişi (Dilber Aslan, Burcu Bıyık), Avrasya Üniversitesi Bilgisayar Mühendisliği Bölümü'nde bitirme projesi olarak yaptık.
