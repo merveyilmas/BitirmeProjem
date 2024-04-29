@@ -21,7 +21,7 @@ Aşağıdaki linkten uygulamanın ekran görüntülerine ulaşabilirsiniz.<br>
 https://drive.google.com/drive/folders/1YPyWp7RrjxleyrKZ1i2p3XyMdpW_5zvm?usp=sharing
 
 <Br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giriş Ekranı&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kayıt Ol Ekranı&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hoşgeldiniz Ekranı</Br>                                          
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiMQrM.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiMdsI.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/EiZVds.png" />
+<img height="400" src="https://drive.google.com/file/d/1eC_CEZo0vQiLuGnY8Eaov5TSFtVIkbRI/view?usp=sharing" /> <img height="400" src="https://drive.google.com/file/d/1cvkc5LvsDi8U943ONs3DPdjF3Dlr9OUg/view?usp=sharing" /> <img height="400" src="https://drive.google.com/file/d/132hvXKMWvrgzt-Pikcl_XgJqTw_ituVx/view?usp=sharing" />
 
 -----------------------------------------
 
